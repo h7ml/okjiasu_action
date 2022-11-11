@@ -46,7 +46,7 @@
     "@dext7r/prettier": "^0.0.9",
     "commitizen": "^4.2.5",
     "cz-conventional-changelog": "3.3.0",
-    "cz-customizable": "^6.3.0",
+    "cz-customizable": "^7.0.0",
     "lint-staged": "13.0.3",
     "open-url-by-browser": "1.0.1",
     "prettier": "2.7.1"
