@@ -713,18 +713,6 @@ cz-conventional-changelog@3.3.0, cz-conventional-changelog@^3.3.0:
   optionalDependencies:
     "@commitlint/load" ">6.1.1"
 
-cz-customizable@^6.3.0:
-  version "6.9.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/cz-customizable/-/cz-customizable-6.9.2.tgz#94ac9d30f88ecc97992306a17610abdff4d03d14"
-  integrity sha512-33Y0eHAp40sb7K346Shm07X+ZIckPKV8pBHUH5Lh2tI4fi0mjHkrYDrwQyJMS8095Ri+H+xkxOmblzQ64wT/Fg==
-  dependencies:
-    editor "1.0.0"
-    find-config "^1.0.0"
-    inquirer "^6.3.1"
-    lodash "^4.17.19"
-    temp "^0.9.0"
-    word-wrap "^1.2.3"
-
 cz-customizable@^7.0.0:
   version "7.0.0"
   resolved "https://mirrors.cloud.tencent.com/npm/cz-customizable/-/cz-customizable-7.0.0.tgz#2a291010bae48936cb2d917447bf83b67fa497df"
